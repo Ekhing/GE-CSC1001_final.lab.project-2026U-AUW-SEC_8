@@ -1,4 +1,4 @@
-# Welcome to the final project repository for GE-CSC1001 – 2026U - Section 5
+# Welcome to the final project repository for GE-CSC1001 – 2026U - Section 8
 
 This project is developed as part of the **'Introduction to Computing and Programming'** course, which is part of the semester's final coursework, in the Department of Computer Science at Asian University for Women, Bangladesh.
 
