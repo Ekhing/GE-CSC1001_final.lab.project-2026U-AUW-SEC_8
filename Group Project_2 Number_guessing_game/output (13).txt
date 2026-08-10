@@ -1,0 +1,29 @@
+1. Play Game
+2. Display Players
+3. Search Player
+4. Exit
+Enter choice: 1
+
+Enter player name: Alice
+Enter guess: 50
+Correct!
+Enter choice: 1
+
+Enter player name: Bob
+Enter guess: 30
+Too Low
+Enter guess: 70
+Too High
+Enter guess: 50
+Correct!
+Player List
+Alice  50
+Bob  30
+Enter player name: Bob
+
+Player Found
+Name: Bob
+Score: 30
+Enter player name: David
+
+Player Not Found
